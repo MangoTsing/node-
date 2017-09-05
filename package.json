@@ -1,0 +1,19 @@
+{
+  "name": "sgyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^3.10.10",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m3g1997"
+  ],
+  "author": "sgyp",
+  "license": "ISC"
+}

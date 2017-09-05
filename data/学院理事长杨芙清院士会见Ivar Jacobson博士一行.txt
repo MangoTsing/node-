@@ -1,0 +1,2 @@
+    4月20日上午，我院国际顾问Ivar Jacobson博士一行再次来访北京大学，学院理事长杨芙清院士、陈钟院长、吴中海副院长及软件技术系和北京大学软件研究所相关老师参加了会谈。    Ivar博士是面向方面的软件开发(AOSD)、组件(Component)和组件架构(Component Architecture)，用例,SDL(Specification Description Language),现代业务工程，Rational统一过程(RUP),UML建模语言(与Grady Booch和James Rumbaugh共同创建)等业界主流方法和技术的创始人，在软件工业开发模式的研究领域有着一定的影响。    此次来访,Ivar博士向杨院士等介绍了他最新的研究活动：SEMAT（Software Engineering Method and Theory），包括该活动发起的背景、构想、主要工作、目前进展及重要意义等情况，并希望能够得到北京大学的支持。    杨院士仔细聆听了Ivar博士的介绍，她认为SEMAT这项“支持一个以坚实的理论﹑经过验证的原则和最佳实践为基础, 重新定义软件工程”的活动很有意义，双方还就软件工程有关理论进行了深层次探讨，并表达了今后共同在中国举办SEMAT国际会议或Workshop的合作意向。
+ 
